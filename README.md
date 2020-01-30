@@ -9,7 +9,7 @@ Ce TP a pour objectif de vous faire découvrir la gestion de versions et ses out
 5. [La gestion des branches](sections/branch.md)
 6. [La communication avec le dépôt central](sections/pushing.md)
 7. [La collaboration sous Git](sections/collaboration.md)
-
+# le TP est terminé
 ## En supplément...
 
 ### Liste d'outils graphiques
